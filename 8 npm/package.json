@@ -1,0 +1,14 @@
+{
+  "name": "8-npm",
+  "version": "1.0.0",
+  "description": "Belajar NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mulia Sahpira",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.15.20"
+  }
+}
